@@ -1,0 +1,7 @@
+Products:
+Name                                               Number     Price                Overall             
+Outdoor Research Molecule Bivy Hops                1          223,50               223,50              
+Trimm One Tent 2018 Model                          1          161,30               161,30              
+
+
+Overall: 384,80 лв.
