@@ -1,7 +1,15 @@
 Products:
 Name                                               Number     Price                Overall             
-Outdoor Research Molecule Bivy Hops                1          223,50               223,50              
-Trimm One Tent 2018 Model                          1          161,30               161,30              
+Coleman Darwin 2 Plus Tent 2017 Model              3          86,40                259,20              
+Robens Starlight 2 Tent 2018 model                 2          142,70               285,40              
+Sea to Summit Trek Tk I Down Sleeping Bag Regular  1          275,60               275,60              
+Robens Couloir 500 Hydrophobic Down Sleeping Bag   9          270,50               2434,50             
+Outwell Camper Sleeping bag 2018 model             1          71,10                71,10               
+Outwell Camper Lux Double Sleeping bag 2018 model  1          112,00               112,00              
+Outwell Deep Cool 35L Freezer                      1          444,30               444,30              
+Outwell Pelican Duffle Self-inflating Coolbag      1          50,60                50,60               
+Outwell Woodville 3 Camping Tent 2018              2          255,10               510,20              
+Outwell Earth 3 tent model 2018                    1          101,70               101,70              
 
 
-Overall: 384,80 лв.
+Overall: 4544,60 лв.
